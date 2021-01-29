@@ -1,3 +1,4 @@
 firmware/
 micropython-lib/
 z_*
+.venv
